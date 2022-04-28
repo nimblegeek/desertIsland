@@ -1,6 +1,10 @@
-Desert Island Playlist
-You’re heading to a desert island, cut off from the world, for the next six months. Luckily, you can bring a playlist of your favorite music ♪♪
+# Desert Island Playlist
+A java - project as part of the Learn java course at CodeAcademy.
 
-Also, this is a chance to put your hard-earned Java skills to the test. Your mission, should you choose to accept it:
+Purpose to practice my new learnings on how to use ArrayList.
 
-Build Playlist.java with the best possible playlist of music using a Java ArrayList. Choose wisely.
+## Main features
+- adding songs to playlist
+- removing songs
+- switching indices in the array
+- assigning int variables new values
